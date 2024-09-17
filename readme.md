@@ -54,7 +54,37 @@ su - команда Unix-подобных операционных систем,
 
 mc - *Midnight Commander) — это текстовый файловый менеджер для командной строки.
 
+Для входа в mc вписываем в терминале mc
+
+![image](https://github.com/user-attachments/assets/c58216bd-54b8-4744-a9d3-f2acde0e2a52)
+
+Открывается утилита
+
+![image](https://github.com/user-attachments/assets/e51a9c82-20b2-44cf-9d67-f6c50e6d923f)
+
+В утилите у нас два "рабочих окна", чтобы между ними перемещаться нажимаем - TAB
+
+Снизу есть помощь в виде команад:
+
+![image](https://github.com/user-attachments/assets/41cfeaa3-e586-4a45-b1cd-d85e24e2a696)
+
+Вводить команды через "F" - т.е. F1, F2, F3, F4, F5, F6 и т.д.
+
 mcedit - (Midnight Commander edit) — это текстовый редактор для командной строки.
+
+![image](https://github.com/user-attachments/assets/c7996b8f-341f-49a5-a729-9e77e40278e9)
+
+Также можно открыть сразу файл через mcedit
+
+![image](https://github.com/user-attachments/assets/bcc499bd-c7f4-42c4-be99-bf195ac8603c)
+
+Ввод данных в файл проводится "стандартно"
+
+![image](https://github.com/user-attachments/assets/641d8fc1-60dd-4e48-84d1-84c72c6d8da2)
+
+Также есть меню помощи снизу
+
+![image](https://github.com/user-attachments/assets/861249ef-e0af-431d-a2e1-abcbcc042e21)
 
 rm - удалить файл
 
